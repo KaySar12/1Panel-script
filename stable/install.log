@@ -1,0 +1,126 @@
+[0;34m[1Panel Log]: ======================= Start installation ======================= [0m
+[0;31m[1Panel Log]: Please use root or sudo Permissions run this script [0m
+[0;34m[1Panel Log]: ======================= Start installation ======================= [0m
+[0;34m[1Panel Log]: The docker has been installed, and the installation steps are skipped [0m
+[0;34m[1Panel Log]: Unpaiched mirror acceleration. [0m
+[0;34m[1Panel Log]: Detect Docker Compose Has been installed, skip installation steps [0m
+[0;34m[1Panel Log]: The port you set is:13000 [0m
+[0;34m[1Panel Log]: Firewall open 13000 port [0m
+[0;34m[1Panel Log]: The security entrance you set is:entrance [0m
+[0;34m[1Panel Log]: The panel users you set are:nextzen [0m
+[0;33m[1Panel Log]: Set the 1Panel panel password, and return directly to the car after the setting is completed to continue (default f6c86871e4）： [0m
+[0;34m[1Panel Log]: Configuration 1Panel Service [0m
+[0;34m[1Panel Log]: Start the 1panel service [0m
+[0;32m[1Panel Log]: 1Panel The service is successful! [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: =================Thank you for your patience, the installation has been completed================== [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: Please use the browser to access the panel: [0m
+[0;34m[1Panel Log]: External network address: http://N/A:13000/entrance [0m
+[0;34m[1Panel Log]: Intranet address: http://172.20.60.244:13000/entrance [0m
+[0;34m[1Panel Log]: Panel user: nextzen [0m
+[0;34m[1Panel Log]: Panel password: smartyourlife [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: Project official website: https://1panel.cn [0m
+[0;34m[1Panel Log]: Project documentation: https://1panel.cn/docs [0m
+[0;34m[1Panel Log]: Code warehouse: https://github.com/1Panel-dev/1Panel [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: If you use the cloud server, please go to the security group to open 13000 port [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: For your server security, you will not be able to see your password after you leave this interface, please keep your password in mind. [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: ================================================================ [0m
+[0;34m[1Panel Log]: ======================= Start installation ======================= [0m
+[0;34m[1Panel Log]: The docker has been installed, and the installation steps are skipped [0m
+[0;34m[1Panel Log]: Unpaiched mirror acceleration. [0m
+[0;34m[1Panel Log]: ... Online installation docker-compose [0m
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 39 59.8M   39 23.5M    0     0  23.4M      0  0:00:02  0:00:01  0:00:01 23.4M 86 59.8M   86 52.0M    0     0  25.9M      0  0:00:02  0:00:02 --:--:-- 25.9M100 59.8M  100 59.8M    0     0  26.9M      0  0:00:02  0:00:02 --:--:-- 26.9M
+[0;34m[1Panel Log]: docker-compose Successful installation [0m
+[0;34m[1Panel Log]: The port you set is:13000 [0m
+[0;34m[1Panel Log]: Firewall open 13000 port [0m
+[0;34m[1Panel Log]: The security entrance you set is:entrance [0m
+[0;34m[1Panel Log]: The panel users you set are:nextzen [0m
+[0;33m[1Panel Log]: Set the 1Panel panel password, and return directly to the car after the setting is completed to continue (default d97d68afcd）： [0m
+[0;34m[1Panel Log]: Configuration 1Panel Service [0m
+[0;34m[1Panel Log]: Start the 1panel service [0m
+[0;32m[1Panel Log]: 1Panel The service is successful! [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: =================Thank you for your patience, the installation has been completed================== [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: Please use the browser to access the panel: [0m
+[0;34m[1Panel Log]: External network address: http://14.177.236.210:13000/entrance [0m
+[0;34m[1Panel Log]: Intranet address: http://172.20.60.244:13000/entrance [0m
+[0;34m[1Panel Log]: Panel user: nextzen [0m
+[0;34m[1Panel Log]: Panel password: smartyourlife [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: Project official website: https://1panel.cn [0m
+[0;34m[1Panel Log]: Project documentation: https://1panel.cn/docs [0m
+[0;34m[1Panel Log]: Code warehouse: https://github.com/1Panel-dev/1Panel [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: If you use the cloud server, please go to the security group to open 13000 port [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: For your server security, you will not be able to see your password after you leave this interface, please keep your password in mind. [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: ================================================================ [0m
+[0;34m[1Panel Log]: ======================= Start installation ======================= [0m
+[0;34m[1Panel Log]: The docker has been installed, and the installation steps are skipped [0m
+[0;34m[1Panel Log]: Unpaiched mirror acceleration. [0m
+[0;34m[1Panel Log]: Detect Docker Compose Has been installed, skip installation steps [0m
+[0;34m[1Panel Log]: The port you set is:13000 [0m
+[0;34m[1Panel Log]: Firewall open 13000 port [0m
+[0;34m[1Panel Log]: The security entrance you set is:entrance [0m
+[0;34m[1Panel Log]: The panel users you set are:nextzen [0m
+[0;33m[1Panel Log]: Set the 1Panel panel password, and return directly to the car after the setting is completed to continue (default 9e7117a8ed）： [0m
+[0;34m[1Panel Log]: Configuration 1Panel Service [0m
+[0;34m[1Panel Log]: Start the 1panel service [0m
+[0;32m[1Panel Log]: 1Panel The service is successful! [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: =================Thank you for your patience, the installation has been completed================== [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: Please use the browser to access the panel: [0m
+[0;34m[1Panel Log]: External network address: http://14.177.236.210:13000/entrance [0m
+[0;34m[1Panel Log]: Intranet address: http://172.20.60.244:13000/entrance [0m
+[0;34m[1Panel Log]: Panel user: nextzen [0m
+[0;34m[1Panel Log]: Panel password: smartyourlife [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: Project official website: https://1panel.cn [0m
+[0;34m[1Panel Log]: Project documentation: https://1panel.cn/docs [0m
+[0;34m[1Panel Log]: Code warehouse: https://github.com/1Panel-dev/1Panel [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: If you use the cloud server, please go to the security group to open 13000 port [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: For your server security, you will not be able to see your password after you leave this interface, please keep your password in mind. [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: ================================================================ [0m
+[0;34m[1Panel Log]: ======================= Start installation ======================= [0m
+[0;34m[1Panel Log]: The docker has been installed, and the installation steps are skipped [0m
+[0;34m[1Panel Log]: Unpaiched mirror acceleration. [0m
+[0;34m[1Panel Log]: Detect Docker Compose Has been installed, skip installation steps [0m
+[0;34m[1Panel Log]: The port you set is:13000 [0m
+[0;34m[1Panel Log]: Firewall open 13000 port [0m
+[0;34m[1Panel Log]: The security entrance you set is:entrance [0m
+[0;34m[1Panel Log]: The panel users you set are:nextzen [0m
+[0;33m[1Panel Log]: Set the 1Panel panel password, and return directly to the car after the setting is completed to continue (default 973556933e）： [0m
+[0;34m[1Panel Log]: Configuration 1Panel Service [0m
+[0;34m[1Panel Log]: Start the 1panel service [0m
+[0;32m[1Panel Log]: 1Panel The service is successful! [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: =================Thank you for your patience, the installation has been completed================== [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: Please use the browser to access the panel: [0m
+[0;34m[1Panel Log]: External network address: http://14.177.236.210:13000/entrance [0m
+[0;34m[1Panel Log]: Intranet address: http://172.20.60.244:13000/entrance [0m
+[0;34m[1Panel Log]: Panel user: nextzen [0m
+[0;34m[1Panel Log]: Panel password: smartyourlife [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: Project official website: https://1panel.cn [0m
+[0;34m[1Panel Log]: Project documentation: https://1panel.cn/docs [0m
+[0;34m[1Panel Log]: Code warehouse: https://github.com/1Panel-dev/1Panel [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: If you use the cloud server, please go to the security group to open 13000 port [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: For your server security, you will not be able to see your password after you leave this interface, please keep your password in mind. [0m
+[0;34m[1Panel Log]:  [0m
+[0;34m[1Panel Log]: ================================================================ [0m
